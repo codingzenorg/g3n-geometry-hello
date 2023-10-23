@@ -19,3 +19,6 @@
 
 # Go workspace file
 go.work
+
+# avoid ide's files... keeping pure
+.idea
